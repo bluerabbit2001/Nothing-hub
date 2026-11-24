@@ -1,7 +1,7 @@
 {
   "name": "RunLab",
   "short_name": "RunLab",
-  "description": "Ritmi, gare e diario degli allenamenti",
+  "description": "Dashboard corsa: allenamenti, gare, previsioni e meteo",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
